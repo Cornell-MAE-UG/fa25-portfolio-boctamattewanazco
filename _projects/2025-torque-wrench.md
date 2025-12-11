@@ -1,7 +1,8 @@
 ---
 layout: project
-title: "Torque Wrench Optimization"
-image: assets/images/default-project.jpg
+title: "Torque Wrench Redesign"
+image: assets/images/torque-wrench.jpg
+date: 2025-12-10
 ---
 
 ## Overview
