@@ -2,7 +2,7 @@
 layout: project
 title: Spaceship Design
 description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
+technologies: [Fusion 360, Ansys]
 image: /assets/images/spaceship-design.jpg
 ---
 
