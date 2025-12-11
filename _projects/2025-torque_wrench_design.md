@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Spaceship Design
+title: Torque Wrench Design & Analysis
 description: Just a spaceship that I designed
 technologies: [Fusion 360, Ansys]
 image: /assets/images/spaceship-design.jpg
