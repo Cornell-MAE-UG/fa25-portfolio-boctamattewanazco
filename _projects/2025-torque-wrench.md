@@ -1,10 +1,1 @@
----
-layout: project
-title: "Torque Wrench Redesign"
-image: assets/images/torque-wrench.jpg   # or any image you have
-date: 2025-12-10
----
 
-## Overview
-
-This project analyzes stress, strain, and sensitivity for a torque wrench design using Fusion 360 and ANSYS. The final design meets the strength, fatigue, and sensitivity requirements specified in the MAE assignment.
