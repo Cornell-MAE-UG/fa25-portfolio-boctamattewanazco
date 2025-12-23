@@ -11,4 +11,9 @@ In our Fluid Mechanics course, we were tasked with disassembling, analyzing, and
 
 I worked on this assignment with Kevin Sturm, Manuely Feliz Portes, and Castiel Li of Cornell University.
 
-[**Here is the video link.**]({{ page.pdf_link | relative_url }})
+<a href="https://youtu.be/lzI_s_GJoqY?si=xMayoWsWDQtT-59w" target="_blank">
+  <img
+    src="https://youtu.be/lzI_s_GJoqY?si=xMayoWsWDQtT-59w/hqdefault.jpg"
+    alt="Project video thumbnail"
+    style="max-width:100%; height:auto;">
+</a>
